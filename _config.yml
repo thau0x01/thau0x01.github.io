@@ -28,6 +28,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thau0x01.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thau0x01
 github_username:  thau0x01
+timezone: America/Sao_Paulo
+locale: "en-US"
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -41,9 +43,10 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: dark
 breadcrumbs: false 
 permalink: /:categories/:title/
-# # pagination settings
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
+# pagination settings
+paginate: 8 # amount of posts to show
+paginate_path: /blog/page:num
+
 
 
 # default settings
