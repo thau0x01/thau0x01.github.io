@@ -1,7 +1,7 @@
 thau0x01:
-  name        : "thau0x01"
-  bio         : "Eat, Sleep, Pown, Repeat."
-  avatar      : "/assets/images/thau0x01.png"
+  name        : "thau0x01  🏴‍☠️"
+  bio         : "A man handing a computer and no fear to use it."
+  avatar      : "/assets/images/thau0x01.jpg"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github-square"
