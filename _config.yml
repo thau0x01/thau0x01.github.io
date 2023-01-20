@@ -18,7 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: thau0x01's pirate ship
+title: Pirate Ship
+subtitle: by thau0x01
+description: "Infosec Lores"
 email: thau0x01@hackware.tech
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
